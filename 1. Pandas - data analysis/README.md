@@ -23,7 +23,7 @@ We welcome contributions to this project. If you have an idea for a new example 
 
 ## Authors
 
-- **[Your Name]** - *Initial work*
+- **Seshan Saravanan** - *Initial work*
 
 ## License
 
